@@ -2,6 +2,7 @@
 
 > A simplified example of a modern module bundler written in JavaScript
 
+video explained https://www.youtube.com/watch?v=Gc9-7PBqOC8&list=LLHK1mTHpwrUeYgF5gu-Kd4g 
 ### Introduction
 
 As front-end developers, we spend a lot of time working with tools like [Webpack](https://github.com/webpack/webpack), [Browserify](https://github.com/browserify/browserify), and [Parcel](https://github.com/parcel-bundler/parcel).
